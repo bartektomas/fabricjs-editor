@@ -1,7 +1,5 @@
 # fabricjs-editor
-step to use :
+## Running the code
 
-$ npm install
-$ gulp dev
-
-done
+	$ npm install
+	$ gulp dev
