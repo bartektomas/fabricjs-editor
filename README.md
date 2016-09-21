@@ -1,2 +1,7 @@
 # fabricjs-editor
-image editor web base
+step to use :
+
+$ npm install
+$ gulp dev
+
+done
